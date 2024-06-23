@@ -1,6 +1,7 @@
 # Challenge ONE | Front End -  Portafolio
 
-<img src="images/portafolio.png"></img>
+
+![portafolio](https://github.com/RamianTeGo/Portafolio/assets/107225526/9a8da342-93a8-4bb4-a90c-4c4beeba0541)
 
 ### ¡Bienvenido al proyecto Portafolio ! Pasos principales:
 ---
