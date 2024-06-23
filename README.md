@@ -1,5 +1,7 @@
 # Challenge ONE | Front End -  Portafolio
 
+<img src="images/portafolio.png"></img>
+
 ### ¡Bienvenido al proyecto Portafolio ! Pasos principales:
 ---
  ⭐
