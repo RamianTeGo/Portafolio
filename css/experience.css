@@ -1,0 +1,55 @@
+.experience{
+    padding: 30px 30px;
+    /* background: #9ea0e3;  */
+}
+
+.experience__section__title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.7em;
+    text-shadow: 1px 1px 2px black, 0 0 25px white, 0 0 5px;
+}
+
+.experience_boxes{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    gap: 20px;
+    flex-direction: column;
+}
+
+.experience__img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: whitesmoke;
+    border-style: double
+}
+
+.experience__title, .experience__text{
+    text-align: center;
+    
+
+}
+
+.experience__text{
+    color: white;
+}
+
+.experience__description{
+    display: flex;
+    justify-content: center;
+}
+
+.experiencia__botao--repo{
+    font-size: 20px;
+    border-radius: 4px;
+    background-color:darkgray;
+    color: sienna;
+    font-weight: 800;
+}
+
+@media (min-width:1024px){
+
+}

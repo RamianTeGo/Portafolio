@@ -1,0 +1,42 @@
+@import url(menu.css);
+@import url(title.css);
+@import url(sobre-mi.css);
+@import url(skills.css);
+@import url(formacion.css);
+@import url(experience.css);
+@import url(contacto.css);
+@import url(footer.css);
+
+
+:root{
+ 
+   --cor-de-fundo: #40415c;
+   --cor-de-link: #000;
+   --cor-hover:#2ea0bc;
+   
+}
+
+[data-fondo="normal"] {
+    --main-bg-color: linear-gradient(180deg, #268d3c 0%, #0a6907 48.44%, #389856 100%);
+}
+
+html{
+    background: var(--main-bg-color);
+}
+body {
+    background: url("/images/pattern.png");
+    box-sizing: border-box;
+    font-family: 'Raleway';
+    line-height: 1;
+    overflow-x: hidden;
+}
+ol, ul,li {
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: var(--cor-de-link);
+}
+
+
+

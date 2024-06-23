@@ -1,0 +1,17 @@
+
+.footer{
+    margin: 40px 0 0 0;
+}
+.footer__rodape{
+    background: radial-gradient(black, transparent);
+    
+}
+
+.footer__rodape p{
+    font-size: small;
+    font-weight: bold;
+    font-style: oblique;
+    text-align: center;
+    margin: 0px 0 0 0;
+    color: thistle;
+}
